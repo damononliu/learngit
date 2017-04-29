@@ -1,2 +1,2 @@
-A video program!
-You need install OpenCv2 first.
+Git is a distributed version control system.
+Git is a free software.
